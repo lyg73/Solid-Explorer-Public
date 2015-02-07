@@ -816,8 +816,23 @@ Krzysztof Głodowski"</string>
         <string name="Rescan_all_media">Prehľadať všetky mediálne súbory</string>
         <string name="Rescan_all_media_summary">Prehľadať všetky médiálne súbory po každom prenose súborov. Túto voľbu použite v prípade, že galérie neaktualizuje správne.</string>
 
-			<!--  v 1.5.7 -->
+	<!--  v 1.5.7 -->
 	<string name="Chromecast_prompt">Solid Explorer odteraz podporuje Chromecast! S doplnkom Cast plugin môžete prehrávať miestne a vzdialené videá na vašom zariadení Chromecast. Chcete získať ďalšie informácie?</string>
 	<string name="Install_chromecast_plugin">Nainštalovať doplnok Chromecast</string>
 	<string name="Install_chromecast_summary">Prehrávajte miestne alebo vzdialené videá na vašom zariadení Chromecast!</string>
+
+	
+	<!-- v 1.5.9 -->
+	<string name="Kitkat_notice">Nedá sa zmeniť obsah karty SD. Toto je zapríčinené novými pravidlami pre prístup k externým úložiskám, ktoré Google zaviedol v Androide 4.4. Ak chcete obísť toto obmedzenie, použite niektorý z nástrojov \"sd fix \" dostupných v obchode Google Play. Pre ich použitie však musí byť Vaše zariadenie ROOT-nuté</string>
+
+	<!-- v 1.6.3 -->
+	<string name="sd_card_grant_first">Pre dokončenie tejto operácie musíte Solid Exploreru povoliť prístup ku karte SD. Prosím, vyberte požadované úložné zariadenie z ľavého bočného panela a potom stlačte tlačidlo vybrať, nachádzajúce sa v spodnej časti. Uistite sa, že sa nachádzate v koreňovom adresári daného úložiska.</string>
+	<string name="sd_card_grant_next">Priečinok, ktorý ste práve vybrali nie je správny. Prosím, vyberte požadované úložné zariadenie z ľavého bočného panela a potom stlačte tlačidlo vybrať, nachádzajúce sa v spodnej časti. Uistite sa, že sa nachádzate v koreňovom adresári daného úložiska.</string>
+	<string name="external_storage_permission">Oprávnenie pre externé úložisko</string>
+	<string name="grant">Povoliť</string>
+	<string name="social_networks">Chcete byť informovaní o novinkách? Sledujte vývoj Solid Explorera na Facebooku, Twitteri a Google+</string>
+	<string name="follow_me">Sledovať!</string>
+	<string name="follow_me_summary">Buďte informováni o novinkách v Solid Exploreri</string>
+	<string name="follow_me_new_version">Vážený používateľ.\nNová verzia Solid Exploreru sa blíži k finálnemu vydaniu. Bude sa vyznačovať novým Material dizajnom a architektúrou doplnkov, ktoré zjednodušia vývoj do budúcnosti. Ak chcete byť informovaní o aktuálnom vývoji, neváhajte ho sledovať na Facebooku, Twitteri a Google+. Ďakujem Vám!</string>
+
 </resources>
