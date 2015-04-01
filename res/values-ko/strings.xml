@@ -852,6 +852,7 @@
 	<string name="Wifi_enabled">Wi-Fi가 켜졌습니다</string>
 	<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">이 항목을 기본값으로 변경하시겠습니까?</string>
 		
+
 	<!-- v 1.4.6 -->  
 	<string name="no_wifi_available">사용가능한 Wi-Fi가 없습니다. 장치에 핫스팟 설정을 하시겠습니까?</string>  
 	<string name="disable_hotspot">핫스팟을 끄시겠습니까?</string>  
@@ -891,4 +892,19 @@
 	<string name="Chromecast_prompt"> Solid Explorer가 크롬캐스트를 지원합니다! Cast 플러그인으로 로컬과 크롬캐스트의 원격비디오를 재생할 수 있습니다. 확인해 보시겠습니까?</string>
 	<string name="Install_chromecast_plugin">크롬캐스트 플러그인 설치</string>
 	<string name="Install_chromecast_summary">크롬캐스트의 원격 비디오를 재생할 수 있습니다!</string>
+
+		<!--  v 1.5.9 -->
+		<string name="Kitkat_notice">구글의 Android 4.4 외부 저장소 정책에 의해 SD 카드의 파일을 수정할 수 없습니다. 
+		    이 제한을 해제 하시려면 구글플레이에서 사용할 수 있는 "SD Fix"앱 중에서 하나를 사용하세요. 루팅이 필요한 기능입니다.</string>
+		    
+		<!-- v 1.6.3 -->
+		<string name="sd_card_grant_first">이 기능을 완료하시려면 Solid Explorer의 SD 카드 접근을 허용해야 합니다. 좌측 사이드바에서 원하는 저장소를 선택하신 후 하단의 선택버튼을 누르세요. 이 저장소는 루트에 있어야 합니다.</string>
+		<string name="sd_card_grant_next">선택하신 디렉토리가 잘 못되었습니다. 좌측 사이드바에서 원하는 저장소를 선택하신 후 하단의 선택버튼을 누르세요. 이 저장소는 루트에 있어야 합니다.</string>
+		<string name="external_storage_permission">외부 저장소 권한</string>
+		<string name="grant">허용</string>
+		<string name="social_networks">뉴스를 최신으로 유지하고 싶으신가요? Solid Explorer 페이스북, 트위트, Google+를 팔로우 하세요.</string>
+		<string name="follow_me">팔로우하기!</string>
+		<string name="follow_me_summary">Solid Explorer 뉴스를 최신으로 유지</string>
+		<string name="follow_me_new_version">Dear user.\nThe new version of Solid Explorer is getting closer to final release. It will feature Material Design and plugin architecture, which will make it easier to develop in the future. If you want to be up to date with the development, feel free to follow it on Facebook, Twitter and Google+. Thank you!</string>
 </resources>
+
