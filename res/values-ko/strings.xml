@@ -891,4 +891,19 @@
 	<string name="Chromecast_prompt"> Solid Explorer가 크롬캐스트를 지원합니다! Cast 플러그인으로 로컬과 크롬캐스트의 원격비디오를 재생할 수 있습니다. 확인해 보시겠습니까?</string>
 	<string name="Install_chromecast_plugin">크롬캐스트 플러그인 설치</string>
 	<string name="Install_chromecast_summary">크롬캐스트의 원격 비디오를 재생할 수 있습니다!</string>
+	
+	<!--  v 1.5.9 -->
+	<string name="Kitkat_notice">SD카드의 파일을 수정할 수 없습니다. 이는 구글이 안드로이드 4.4에서 소개한 새로운 외부 저장장치 정책 때문입니다.
+	    이 제한을 해제 하시려면 플레이스토어에서 "sd fix" 앱 중 하나를 설치하세요. 루팅된 단말기에서 가능합니다.</string>
+	    
+	<!-- v 1.6.3 -->
+	<string name="sd_card_grant_first">이 기능을 완료하시려면 Solid Explorer에서 접근할 SD 카드를 승인하셔야 합니다. 좌측 사이드바에서 원하는 저장소 장치를 선택하셔서 하단의 선택 버튼을 누르세요. 이 저장소의 최상위에서 가능합니다.</string>
+	<string name="sd_card_grant_next">잘못된 디렉토리를 선택하였습니다. 좌측 사이드바에서 원하는 저장소 장치를 선택하셔서 하단의 선택 버튼을 누르세요. 이 저장소의 최상위에서 가능합니다.</string>
+	<string name="external_storage_permission">외부 저장소 권한</string>
+	<string name="grant">승인</string>
+	<string name="social_networks">최신 뉴스를 보시기 원하십니까? 페이스북, 트위터, Google+에서 Solid Explorer 개발팀을 팔로우 하세요.</string>
+	<string name="follow_me">팔로우 하기!</string>
+	<string name="follow_me_summary">Solid Explorer에 대한 최신 뉴스를 볼 수 있습니다</string>
+	<string name="follow_me_new_version">Solid Explorer의 새로운 버전이 곧 출시됩니다. 추가 개발을 쉽게 하기 위한 머티리얼 디자인과 플러그인 아키텍처가 특징입니다. 최신 개발 소식을 접하시려면 페이스북, 트위터, Google+에서 Solid Explorer 개발팀을 팔로우 하세요. 감사합니다!</string>
+	
 </resources>
